@@ -18,7 +18,8 @@
         "id":1,
         "username":"prince",
         "email":"prince@gmail.com",
-        "password":"123456"
+        "password":"123456",
+        "addrecipes":[]
       }
     ],
     "recipes":[
