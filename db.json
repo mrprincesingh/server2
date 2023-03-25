@@ -54,7 +54,8 @@
       }
     ],
     "movieusers":[
-      {
+      { 
+        "id":1,
         "username":"shikha",
         "email":"shikha@gmail.com",
         "password":"123456"
